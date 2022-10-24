@@ -8,4 +8,4 @@ The players is caracterized as a "@". It can damage enemies, receive damage and 
 
 Future improvements: More enemies, more players "classes", items, levelup system.
 
-Huge thanks to http://rogueliketutorials.com/ and https://www.reddit.com/r/roguelikedev/ where I found inspiration and learned all of this stuff.
+Huge thanks to https://www.reddit.com/r/roguelikedev/ where I found inspiration and learned all of this stuff.
